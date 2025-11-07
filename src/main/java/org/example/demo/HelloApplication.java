@@ -18,5 +18,6 @@ public class HelloApplication extends Application {
         System.out.println("jjjjjjjjjjjjjjjjjjj");
         System.out.println("牛鼻");
         System.out.println("klsdjlfsa");
+        System.out.println("你你你您");
     }
 }
