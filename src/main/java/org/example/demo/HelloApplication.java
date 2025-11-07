@@ -17,5 +17,6 @@ public class HelloApplication extends Application {
         stage.show();
         System.out.println("jjjjjjjjjjjjjjjjjjj");
         System.out.println("牛鼻");
+        System.out.println("klsdjlfsa");
     }
 }
